@@ -4,7 +4,7 @@ A minimalist banking app
 
 # Preview
 
-![bankist](https://github.com/Ismail020/bankist/assets/91133205/122c6243-3ce2-4a82-be7a-851bb82196a9)
+![image](https://github.com/Ismail020/bankist/assets/91133205/54112ed7-c2de-43fe-9482-88e6362f97e8)
 
 # Login Credentials
 
